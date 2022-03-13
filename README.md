@@ -1,2 +1,2 @@
 # Learning-MERN
-A Repo to practise my skills and document my progress
+I'll document my progress in each section in different repo
